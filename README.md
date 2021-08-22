@@ -5,7 +5,9 @@ This is a project that I created during my internship at OBSS. It contains a jav
 This project contains 3 user types: ADMIN, USER, SELLER.
 
 USER --> Can add products to his/her favoritelist or add a seller into blacklist.
+
 SELLER --> Can create, update or delete his own product.
+
 ADMIN --> Can delete user, seller, product and update their information.
 
 # Requirements
